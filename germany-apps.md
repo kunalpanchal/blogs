@@ -1,8 +1,8 @@
 ---
-author: Kunal
-datetime: 2023-01-25T00:10:00Z
 title: Apps to download in Germany
 slug: apps-to-download-in-germany
+author: Kunal
+datetime: 2023-01-25T00:10:00Z
 featured: true
 draft: false
 tags:

@@ -1,10 +1,10 @@
 ---
 title: React India 2019 🏖
+slug: react-india-2019
 description: React India Conference 2019 at Goa summarized
 ogImage: https://thepracticaldev.s3.amazonaws.com/i/g9coqiefdw7kj32k8gh4.jpeg
 author: Kunal
 datetime: 2023-01-25T00:10:00Z
-slug: react-india-2019
 featured: true
 draft: false
 tags:

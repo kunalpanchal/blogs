@@ -4,7 +4,7 @@ slug: react-india-2019
 description: React India Conference 2019 at Goa summarized
 ogImage: https://thepracticaldev.s3.amazonaws.com/i/g9coqiefdw7kj32k8gh4.jpeg
 author: Kunal
-featured: true
+featured: false
 draft: false
 tags:
   - GraphQL
@@ -12,8 +12,6 @@ tags:
   - conferences, 
   - javascript
 ---
-
-
 
 React India 2019 was organized at Goa this time and it was a blast. Undoubtedly beach conferences are the best. What can go wrong when you have a private beach to hang out after all those fantastic talks? 
 

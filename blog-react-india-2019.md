@@ -6,6 +6,7 @@ ogImage: https://thepracticaldev.s3.amazonaws.com/i/g9coqiefdw7kj32k8gh4.jpeg
 author: Kunal
 featured: false
 draft: false
+datetime: 2019-10-02
 tags:
   - GraphQL
   - React

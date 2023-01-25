@@ -1,11 +1,17 @@
 ---
 title: React India 2019 🏖
-published: true
 description: React India Conference 2019 at Goa summarized
-tags: GraphQL, React, conferences, javascript
 cover_image: https://thepracticaldev.s3.amazonaws.com/i/g9coqiefdw7kj32k8gh4.jpeg
----
-
+author: Kunal
+datetime: 2023-01-25T00:10:00Z
+slug: apps-to-download-in-germany
+featured: true
+draft: false
+tags:
+  - GraphQL
+  - React
+  - conferences, 
+  - javascript
 ---
 
 

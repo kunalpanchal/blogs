@@ -10,7 +10,7 @@ datetime: 2019-10-02
 tags:
   - GraphQL
   - React
-  - conferences, 
+  - conferences
   - javascript
 ---
 

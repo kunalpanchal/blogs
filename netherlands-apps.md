@@ -1,7 +1,7 @@
 ---
 author: Kunal
 datetime: 2023-01-24T23:26:00Z
-title: Apps to download in netherlands
+title: Apps to download in Netherlands
 slug: apps-to-download-in-netherlands
 featured: true
 draft: false
@@ -9,7 +9,7 @@ tags:
   - apps
   - netherlands
 description:
-  Apps to download in netherlands 
+  Apps to download in Netherlands 
 ---
 
 ### Travel Apps

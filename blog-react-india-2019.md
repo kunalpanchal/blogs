@@ -12,6 +12,7 @@ tags:
   - React
   - conferences
   - javascript
+layout: default
 ---
 
 React India 2019 was organized at Goa this time and it was a blast. Undoubtedly beach conferences are the best. What can go wrong when you have a private beach to hang out after all those fantastic talks? 

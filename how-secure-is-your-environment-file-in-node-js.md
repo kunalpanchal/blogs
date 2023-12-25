@@ -23,9 +23,9 @@ Recently many fake Malicious NPM packages were found which work the same way as 
 
 This could be extremely dangerous as the your process environments could contain secret keys, tokens, DB strings and what not.
 
-# Solution ?
+## Solution ?
 
-## Try [secure-env](https://www.npmjs.com/package/secure-env)
+### Try [secure-env](https://www.npmjs.com/package/secure-env)
 
 The only problem here is that you write a few more lines of code.
 
@@ -42,7 +42,7 @@ This packages helps you generate a `env.enc`,which is then decrypted later in t
 
 You may download and deep dive into other options that are available in [secure-env](https://www.npmjs.com/package/secure-env) to know more. Feel free to contribute to the [code](https://github.com/kunalpanchal/secure-env).
 
-# Other solutions
+## Other solutions
 
 - [What to do if am a user](https://iamakulov.com/notes/npm-malicious-packages/#what-to-do-if-im-a-user)?
 - [What to do if am a library developer?](https://iamakulov.com/notes/npm-malicious-packages/#what-to-do-if-im-a-library-developer)

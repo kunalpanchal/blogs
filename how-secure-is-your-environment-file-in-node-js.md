@@ -9,8 +9,6 @@ tags:
   - security
   - npm
 ---
-# How secure is your environment file in Node.JS ?
-
 I bet [dotenv](https://www.npmjs.com/package/dotenv) is the easiest way out. You create a .env file and include this sing==le li==ne of code within your project :
 
 `require(‘dotenv’).config()`

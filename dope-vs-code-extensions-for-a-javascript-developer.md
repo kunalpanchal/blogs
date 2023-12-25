@@ -10,8 +10,6 @@ tags:
   - javascript
   - extensions
 ---
-# Dope VS Code extensions for a Javascript developer
-
 According to [Octoverse](https://octoverse.github.com/) 2017, Microsoft’s Visual Studio Code tops the list of _Projects with the most contributors._ Which implies that there are a lot many developers who ==absofreakinlutely love VS Code==.  
 Here I have a list of extensions which might not make you a better developer, but for sure would make you feel like one!
 

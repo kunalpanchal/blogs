@@ -1,5 +1,5 @@
 ---
-title: Does any harm?
+title: "Does any harm? #typescript"
 slug: does-any-harm-typescript
 datetime: 2019-02-28
 original-link: https://codeburst.io/does-any-harm-typescript-c811ad3b00e8
@@ -9,8 +9,6 @@ tags:
   - web-development
 description: Why not to use "any" anywhere?
 ---
-# Does any harm? #typescript
-
 > Why not to use “any” anywhere.
 
 ![](https://cdn-images-1.medium.com/max/1600/1*8E1vvTeneKKggEheo_1qtg.jpeg)

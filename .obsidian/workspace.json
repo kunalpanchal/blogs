@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dope-vs-code-extensions-for-a-javascript-developer.md",
+                "file": "places-to-visit-in-netherlands.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dope-vs-code-extensions-for-a-javascript-developer.md",
+                "file": "places-to-visit-in-netherlands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dope-vs-code-extensions-for-a-javascript-developer.md",
+                "file": "places-to-visit-in-netherlands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dope-vs-code-extensions-for-a-javascript-developer.md"
+                "file": "places-to-visit-in-netherlands.md"
               }
             }
           },
@@ -203,14 +203,14 @@
   },
   "active": "a65d9a93ab371a16",
   "lastOpenFiles": [
-    "germany-apps.md",
-    "dope-vs-code-extensions-for-a-javascript-developer.md",
-    "places-to-visit-in-netherlands.md",
     "netherlands-apps.md",
     "how-secure-is-your-environment-file-in-node-js.md",
-    "owning a car in NL.md",
+    "germany-apps.md",
+    "dope-vs-code-extensions-for-a-javascript-developer.md",
     "does-any-harm-typescript.md",
     "blog-react-india-2019.md",
+    "places-to-visit-in-netherlands.md",
+    "owning a car in NL.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

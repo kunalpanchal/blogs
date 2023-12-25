@@ -11,7 +11,7 @@ tags:
 description:
   Apps to download in Netherlands 
 ---
-
+# Apps to have in Netherlands
 ### Travel Apps
 
 - [9292](https://9292.nl/)

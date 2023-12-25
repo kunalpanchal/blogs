@@ -9,7 +9,7 @@ tags:
   - web-development
 description: Why not to use "any" anywhere?
 ---
-### Does any harm? #typescript
+# Does any harm? #typescript
 
 > Why not to use “any” anywhere.
 
